@@ -1,0 +1,214 @@
+{
+  "library": "Starbirth.KuduShofar",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/Starbirth.KuduShofar",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/kudu-shofar-opus-48",
+  "branch": "master",
+  "fileCount": 15,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/kudu-shofar-opus-48/master/",
+  "files": [
+    {
+      "file": "A4.opus",
+      "name": "A4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/kudu-shofar-opus-48/master/A4.opus",
+      "size": 30604,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B4.opus",
+      "name": "B4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/kudu-shofar-opus-48/master/B4.opus",
+      "size": 29176,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C4.opus",
+      "name": "C4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/kudu-shofar-opus-48/master/C4.opus",
+      "size": 30632,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5.opus",
+      "name": "C5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/kudu-shofar-opus-48/master/C5.opus",
+      "size": 24908,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cs4.opus",
+      "name": "Cs4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/kudu-shofar-opus-48/master/Cs4.opus",
+      "size": 19156,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D4.opus",
+      "name": "D4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/kudu-shofar-opus-48/master/D4.opus",
+      "size": 31574,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D5.opus",
+      "name": "D5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/kudu-shofar-opus-48/master/D5.opus",
+      "size": 33286,
+      "note": "D5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds4.opus",
+      "name": "Ds4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/kudu-shofar-opus-48/master/Ds4.opus",
+      "size": 32031,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E4.opus",
+      "name": "E4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/kudu-shofar-opus-48/master/E4.opus",
+      "size": 30516,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E5.opus",
+      "name": "E5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/kudu-shofar-opus-48/master/E5.opus",
+      "size": 43702,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F4.opus",
+      "name": "F4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/kudu-shofar-opus-48/master/F4.opus",
+      "size": 49032,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F5.opus",
+      "name": "F5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/kudu-shofar-opus-48/master/F5.opus",
+      "size": 46390,
+      "note": "F5",
+      "midiNote": 77,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs4.opus",
+      "name": "Fs4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/kudu-shofar-opus-48/master/Fs4.opus",
+      "size": 125309,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G4.opus",
+      "name": "G4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/kudu-shofar-opus-48/master/G4.opus",
+      "size": 120082,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G5.opus",
+      "name": "G5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/kudu-shofar-opus-48/master/G5.opus",
+      "size": 49959,
+      "note": "G5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "60": [
+      "C4.opus"
+    ],
+    "62": [
+      "D4.opus"
+    ],
+    "64": [
+      "E4.opus"
+    ],
+    "65": [
+      "F4.opus"
+    ],
+    "67": [
+      "G4.opus"
+    ],
+    "69": [
+      "A4.opus"
+    ],
+    "71": [
+      "B4.opus"
+    ],
+    "72": [
+      "C5.opus"
+    ],
+    "74": [
+      "D5.opus"
+    ],
+    "76": [
+      "E5.opus"
+    ],
+    "77": [
+      "F5.opus"
+    ],
+    "79": [
+      "G5.opus"
+    ]
+  }
+}
